@@ -1232,6 +1232,7 @@
                         <p>Grab it before it's gone — limited stock</p>
                     </div>
                 </div>
+
                 <div class="deal-wrap">
                     <div class="deal-img">
                         <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80" alt="MacBook Air M2" loading="lazy">
